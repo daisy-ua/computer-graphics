@@ -58,3 +58,6 @@ local.properties
 .scala_dependencies
 .worksheet
 openjfx-15.0.1_linux-x64_bin-sdk/
+
+
+source/
